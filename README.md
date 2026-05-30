@@ -26,6 +26,9 @@ HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
 ### Backend
 Node.js • Express.js
 
+<img width="1137" height="396" alt="image" src="https://github.com/user-attachments/assets/4c312a41-385d-4fe5-928c-d91f1dee604e" />
+
+
 ### Database
 MongoDB
 
