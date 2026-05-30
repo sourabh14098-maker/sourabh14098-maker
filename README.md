@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Sourabh Raj
 
-<!--
-**sourabh14098-maker/sourabh14098-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Science Student | Frontend Developer | Full Stack Learner
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer;Full+Stack+Learner;Building+Real+World+Projects;StudyHub+Creator" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+- 🎓 Computer Science Student
+- 💻 Creator of StudyHub Notes Platform
+- 🌱 Learning MERN Stack
+- 🚀 Interested in Web Development & AI
+- 📚 Practicing DSA in Java & C++
+- 🎯 Goal: Software Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB
+
+### Tools
+Git • GitHub • VS Code • Postman • Netlify
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 StudyHub
+Notes Sharing Platform for Students
+
+### 🏋️ Fitness Website
+Modern Fitness Landing Page
+
+### 🌐 Portfolio Website
+Personal Developer Portfolio
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourabh14098-maker&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sourabh14098-maker&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh14098-maker&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Goals
+
+- Learn Next.js
+- Learn System Design
+- Build SaaS Projects
+- Start Freelancing
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:(https://www.linkedin.com/in/sourabhraj14098?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- Email: sourabh14098@gmail.com
+
+⭐ Thanks for visiting my profile!
