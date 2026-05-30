@@ -44,6 +44,10 @@ Git • GitHub • VS Code • Postman • Netlify
 ### 📚 StudyHub
 Notes Sharing Platform for Students
 
+🌐 Live Demo:
+https://dainty-bienenstitch-127b68.netlify.app
+
+
 ### 🏋️ Fitness Website
 Modern Fitness Landing Page
 
